@@ -1,4 +1,4 @@
 ### Hi there 👋, my name is Ilya
-#### I am Frontend developer
+#### I am React Frontend developer
 
-Skills: REACT  / REDUX / JS / HTML / CSS
+Skills: REACT (NEXT.JS) / TYPESCRIPT / MOBX / REDUX / CSS-in-JS / SASS
